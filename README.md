@@ -15,6 +15,10 @@ Please contact us by the following information:
 ## Grading Policy
 - 5 homework assignments (60% = 12% x 5), see [HW READEME](https://github.com/NCTU-VRDL/CS_CS20024/blob/main/HW_README.md)
 - Final exam (40%)
+
+## Outline
+|HW1|Linear Regression|
+|HW2| Fisher’s linear discriminant |
  
 ## Syllabus
 | Week |  Date   | Topic                                                                | Remarks                                                    |
