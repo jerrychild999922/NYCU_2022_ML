@@ -17,8 +17,10 @@ Please contact us by the following information:
 - Final exam (40%)
 
 ## Outline
-|HW1|Linear Regression|
-|HW2| Fisher’s linear discriminant |
+|Homework|topic                                   |
+|--------|----------------------------------------|
+|HW1     |Linear Regression                       |
+|HW2     | Fisher’s linear discriminant           |
  
 ## Syllabus
 | Week |  Date   | Topic                                                                | Remarks                                                    |
