@@ -2,6 +2,16 @@
 ## Instructor: [Prof. Yen-Yu Lin](https://www.cs.nctu.edu.tw/members/detail/lin)
 ## Introduction
 Introduction to Machine Learning
+
+## Outline
+|Homework   |Topic                                      |
+|-----------|-------------------------------------------|
+|HW1        |Linear Regression                          |
+|HW2        |Fisher’s linear discriminant               |
+|HW3        |Decision Tree, AdaBoost and Random Forest  |
+|HW4        |Support Vector Machine                     |
+|HW5        |Rresnet-18                                 |
+ 
 ## Office Hours
 Tuesday 4:20 pm ~ 5:20 pm at EC701
 
@@ -16,12 +26,6 @@ Please contact us by the following information:
 - 5 homework assignments (60% = 12% x 5), see [HW READEME](https://github.com/NCTU-VRDL/CS_CS20024/blob/main/HW_README.md)
 - Final exam (40%)
 
-## Outline
-|Homework|topic                                   |
-|--------|----------------------------------------|
-|HW1     |Linear Regression                       |
-|HW2     | Fisher’s linear discriminant           |
- 
 ## Syllabus
 | Week |  Date   | Topic                                                                | Remarks                                                    |
 | ---- | ------- | ---------------------------------------------------------------------| -----------------------------------------------------------|    
