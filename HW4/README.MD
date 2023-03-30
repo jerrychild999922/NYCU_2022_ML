@@ -1,4 +1,4 @@
-## HW4: Support Vector Machine, due date: Nov. 29, 23:59
+## HW4: Support Vector Machine
 
 ### Goals
 
