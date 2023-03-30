@@ -1,4 +1,4 @@
-## HW3: Decision Tree, AdaBoost and Random Forest, due date: Nov. 15, 23:59
+## HW3: Decision Tree, AdaBoost and Random Forest
 
 ### Goals
 
